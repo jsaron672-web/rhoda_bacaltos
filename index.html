@@ -1,27 +1,27 @@
 <!DOCTYPE html>
-<html lang="fil">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#6d3bd1">
-  <meta name="description" content="Isang purple-themed na storybook library na may 30 libro, interactive na reader, at personal na bookshelf.">
+  <meta name="description" content="A purple-themed storybook library with 30 books, an interactive reader, and a personal bookshelf.">
   <title>Lila Reads — Storybook Library</title>
   <link rel="stylesheet" href="style.css">
   <script src="script.js" defer></script>
 </head>
 <body>
-  <a class="skip-link" href="#library">Lumaktaw sa mga libro</a>
+  <a class="skip-link" href="#library">Skip to the library</a>
   <header class="site-header">
     <a class="brand" href="#home" aria-label="Lila Reads home">
       <span class="brand-mark" aria-hidden="true">L</span>
       <span>Lila <strong>Reads</strong></span>
     </a>
-    <nav class="main-nav" aria-label="Pangunahing navigation">
+    <nav class="main-nav" aria-label="Main navigation">
       <a class="nav-link is-current" href="#library" data-view="library">Library</a>
       <button class="nav-link nav-button" type="button" data-view="shelf">My Shelf <span class="shelf-count" id="shelfCount">0</span></button>
-      <a class="nav-link" href="#about">Tungkol</a>
+      <a class="nav-link" href="#about">About</a>
     </nav>
-    <button class="icon-button theme-toggle" type="button" id="themeToggle" aria-label="Palitan ang tema" title="Palitan ang tema">
+    <button class="icon-button theme-toggle" type="button" id="themeToggle" aria-label="Toggle theme" title="Toggle theme">
       <span id="themeIcon" aria-hidden="true">☾</span>
     </button>
   </header>
@@ -29,19 +29,19 @@
   <main id="home">
     <section class="hero" aria-labelledby="heroTitle">
       <div class="hero-copy">
-        <p class="eyebrow"><span class="eyebrow-dot"></span> ISANG MUNTING SULOK PARA SA MGA MAMBABASA</p>
-        <h1 id="heroTitle">Bawat pahina,<br><em>bagong mundo.</em></h1>
-        <p class="hero-description">Pumili ng libro, magbasa ng unang kabanata, at itabi ang mga kuwentong gusto mong balikan.</p>
-        <a class="primary-button" href="#library">Tuklasin ang mga libro <span aria-hidden="true">→</span></a>
-        <div class="hero-proof"><span class="proof-stars" aria-hidden="true">✦ ✦ ✦</span><span>30 libro · 30 natatanging unang kabanata</span></div>
+        <p class="eyebrow"><span class="eyebrow-dot"></span> A LITTLE CORNER FOR READERS</p>
+        <h1 id="heroTitle">Every page,<br><em>a new world.</em></h1>
+        <p class="hero-description">Choose a book, read its first chapter, and save the stories you want to revisit.</p>
+        <a class="primary-button" href="#library">Explore the books <span aria-hidden="true">→</span></a>
+        <div class="hero-proof"><span class="proof-stars" aria-hidden="true">✦ ✦ ✦</span><span>30 books · 30 original first chapters</span></div>
       </div>
 
-      <div class="feature-wrap" aria-label="Tampok na mga libro">
+      <div class="feature-wrap" aria-label="Featured books">
         <div class="feature-glow" aria-hidden="true"></div>
         <article class="feature-card">
           <div class="feature-cover-wrap">
-            <img id="featureCover" class="feature-cover" src="images/HARRY_POTTER_1792598517484.jpeg" alt="Pabalat ng tampok na libro">
-            <span class="feature-label">TAMPOK</span>
+            <img id="featureCover" class="feature-cover" src="images/HARRY_POTTER_1792598517484.jpeg" alt="Featured book cover">
+            <span class="feature-label">FEATURED</span>
           </div>
           <div class="feature-info">
             <p class="feature-genre" id="featureGenre">Fantasy</p>
@@ -49,15 +49,15 @@
             <p class="feature-author" id="featureAuthor">J.K. Rowling</p>
             <p class="feature-synopsis" id="featureSynopsis"></p>
             <div class="feature-actions">
-              <button class="primary-button feature-read" type="button" id="featureRead">Basahin ang kabanata <span aria-hidden="true">→</span></button>
-              <button class="icon-button feature-like" type="button" id="featureLike" aria-label="Idagdag sa My Shelf" aria-pressed="false">♡</button>
+              <button class="primary-button feature-read" type="button" id="featureRead">Read the chapter <span aria-hidden="true">→</span></button>
+              <button class="icon-button feature-like" type="button" id="featureLike" aria-label="Add to My Shelf" aria-pressed="false">♡</button>
             </div>
           </div>
         </article>
         <div class="slider-controls">
-          <button class="icon-button slider-arrow" type="button" id="slidePrev" aria-label="Nakaraang tampok na libro">←</button>
-          <div class="slider-dots" id="sliderDots" aria-label="Pumili ng tampok na libro"></div>
-          <button class="icon-button slider-arrow" type="button" id="slideNext" aria-label="Susunod na tampok na libro">→</button>
+          <button class="icon-button slider-arrow" type="button" id="slidePrev" aria-label="Previous featured book">←</button>
+          <div class="slider-dots" id="sliderDots" aria-label="Choose a featured book"></div>
+          <button class="icon-button slider-arrow" type="button" id="slideNext" aria-label="Next featured book">→</button>
         </div>
       </div>
       <div class="hero-decoration decor-one" aria-hidden="true">✦</div>
@@ -67,16 +67,16 @@
     <section class="library-section" id="library" aria-labelledby="libraryTitle">
       <div class="section-heading">
         <div>
-          <p class="eyebrow section-eyebrow">HANAPIN ANG SUSUNOD MONG BABASAHIN</p>
-          <h2 id="libraryTitle">Ang library <span class="heading-sparkle" aria-hidden="true">✦</span></h2>
-          <p class="section-subtitle" id="resultSummary">30 kuwentong naghihintay buksan.</p>
+          <p class="eyebrow section-eyebrow">FIND YOUR NEXT READ</p>
+          <h2 id="libraryTitle">The Library <span class="heading-sparkle" aria-hidden="true">✦</span></h2>
+          <p class="section-subtitle" id="resultSummary">30 stories waiting to be opened.</p>
         </div>
         <label class="sort-control" for="sortSelect">
-          <span>Ayusin ayon sa</span>
+          <span>Sort by</span>
           <select id="sortSelect">
-            <option value="featured">Itinatampok</option>
-            <option value="az">Pamagat: A–Z</option>
-            <option value="za">Pamagat: Z–A</option>
+            <option value="featured">Featured</option>
+            <option value="az">Title: A–Z</option>
+            <option value="za">Title: Z–A</option>
             <option value="genre">Genre</option>
           </select>
         </label>
@@ -85,46 +85,46 @@
       <div class="library-toolbar">
         <label class="search-box" for="searchInput">
           <span aria-hidden="true" class="search-icon">⌕</span>
-          <input id="searchInput" type="search" placeholder="Maghanap ng libro o author..." autocomplete="off">
+          <input id="searchInput" type="search" placeholder="Search books or authors..." autocomplete="off">
           <kbd>/</kbd>
         </label>
-        <div class="filter-list" id="filterList" aria-label="Salain ayon sa genre"></div>
+        <div class="filter-list" id="filterList" aria-label="Filter by genre"></div>
       </div>
 
       <div class="shelf-notice" id="shelfNotice" hidden>
         <span class="shelf-notice-icon" aria-hidden="true">♡</span>
-        <div><strong>My Shelf</strong><p>Dito makikita ang mga librong minarkahan mo.</p></div>
-        <button class="text-button" type="button" id="backToLibrary">Bumalik sa library</button>
+        <div><strong>My Shelf</strong><p>Books you save will show up here.</p></div>
+        <button class="text-button" type="button" id="backToLibrary">Back to the library</button>
       </div>
 
       <div class="book-grid" id="bookGrid" aria-live="polite"></div>
       <div class="empty-state" id="emptyState" hidden>
         <span aria-hidden="true">✧</span>
-        <h3>Wala pang librong nahanap</h3>
-        <p>Subukan ang ibang salita o genre.</p>
-        <button class="text-button" type="button" id="clearFilters">I-reset ang paghahanap</button>
+        <h3>No books found</h3>
+        <p>Try a different search term or genre.</p>
+        <button class="text-button" type="button" id="clearFilters">Reset search</button>
       </div>
     </section>
 
     <section class="about-section" id="about">
       <div class="about-orbit" aria-hidden="true">✦</div>
       <div>
-        <p class="eyebrow">ISANG KABANATA SA BAWAT LIBRO</p>
-        <h2>Basahin sa sarili mong bilis.</h2>
-        <p>Mga maikling pambungad na ginawa para sa proyektong ito, mga pabalat mula sa ipinasa mong koleksyon, at isang shelf para madaling balikan ang mga paborito.</p>
+        <p class="eyebrow">ONE CHAPTER PER BOOK</p>
+        <h2>Read at your own pace.</h2>
+        <p>Original short openings created for this project, covers from your collection, and a shelf to keep your favorites close.</p>
       </div>
-      <a class="about-link" href="#library">Pumili ng babasahin <span aria-hidden="true">↗</span></a>
+      <a class="about-link" href="#library">Choose a book <span aria-hidden="true">↗</span></a>
     </section>
   </main>
 
   <footer class="site-footer">
     <a class="brand footer-brand" href="#home"><span class="brand-mark" aria-hidden="true">L</span><span>Lila <strong>Reads</strong></span></a>
-    <p>Ginawa para sa mga kuwentong gusto mong balikan. <span aria-hidden="true">✦</span></p>
-    <a href="#home" class="back-top">Bumalik sa itaas ↑</a>
+    <p>Made for the stories you want to revisit. <span aria-hidden="true">✦</span></p>
+    <a href="#home" class="back-top">Back to top ↑</a>
   </footer>
 
   <dialog class="book-dialog" id="bookDialog" aria-labelledby="dialogTitle">
-    <button class="dialog-close" type="button" data-close="bookDialog" aria-label="Isara">×</button>
+    <button class="dialog-close" type="button" data-close="bookDialog" aria-label="Close">×</button>
     <div class="dialog-layout">
       <div class="dialog-cover-frame"><img id="dialogCover" src="" alt=""></div>
       <div class="dialog-content">
@@ -132,7 +132,7 @@
         <h2 id="dialogTitle"></h2>
         <p class="dialog-author" id="dialogAuthor"></p>
         <div class="dialog-synopsis">
-          <div class="synopsis-heading"><h3>Synopsis</h3><button class="text-button" id="synopsisToggle" type="button" aria-expanded="true">Itago</button></div>
+          <div class="synopsis-heading"><h3>Synopsis</h3><button class="text-button" id="synopsisToggle" type="button" aria-expanded="true">Hide</button></div>
           <p id="dialogSynopsis"></p>
         </div>
         <div class="dialog-progress" id="dialogProgressWrap" hidden>
@@ -140,10 +140,10 @@
           <progress id="dialogProgress" max="100" value="0"></progress>
         </div>
         <div class="dialog-actions">
-          <button class="primary-button" type="button" id="dialogRead">Basahin ang Kabanata 1 <span aria-hidden="true">→</span></button>
-          <button class="secondary-button" type="button" id="dialogLike" aria-pressed="false">♡ <span id="dialogLikeText">Idagdag sa My Shelf</span></button>
+          <button class="primary-button" type="button" id="dialogRead">Read Chapter 1 <span aria-hidden="true">→</span></button>
+          <button class="secondary-button" type="button" id="dialogLike" aria-pressed="false">♡ <span id="dialogLikeText">Add to My Shelf</span></button>
         </div>
-        <p class="chapter-note">Isang kabanata lang ang available para sa bawat libro.</p>
+        <p class="chapter-note">One chapter is available for each book.</p>
       </div>
     </div>
   </dialog>
@@ -152,9 +152,9 @@
     <div class="reader-topbar">
       <div class="reader-book-label"><span class="reader-mark" aria-hidden="true">L</span><span id="readerBookTitle">Lila Reads</span></div>
       <div class="reader-tools">
-        <button class="reader-tool" type="button" id="fontDown" aria-label="Paliitin ang teksto">A−</button>
-        <button class="reader-tool" type="button" id="fontUp" aria-label="Lakihan ang teksto">A+</button>
-        <button class="dialog-close reader-close" type="button" data-close="readerDialog" aria-label="Isara ang reader">×</button>
+        <button class="reader-tool" type="button" id="fontDown" aria-label="Decrease text size">A−</button>
+        <button class="reader-tool" type="button" id="fontUp" aria-label="Increase text size">A+</button>
+        <button class="dialog-close reader-close" type="button" data-close="readerDialog" aria-label="Close reader">×</button>
       </div>
     </div>
     <div class="reader-progress-wrap"><progress id="readerProgress" max="100" value="0"></progress></div>
@@ -164,10 +164,10 @@
         <h2 id="readerTitle"></h2>
         <p class="reader-byline" id="readerAuthor"></p>
         <div class="reader-divider"><span>✦</span></div>
-        <h3 id="chapterHeading">Kabanata 1</h3>
+        <h3 id="chapterHeading">Chapter 1</h3>
         <div class="reader-copy" id="readerCopy"></div>
-        <div class="chapter-end"><span>✦</span><p>Wakas ng kabanata</p><span>✦</span></div>
-        <button class="primary-button reader-finish" type="button" id="finishReading">Tapos na akong magbasa <span aria-hidden="true">✓</span></button>
+        <div class="chapter-end"><span>✦</span><p>End of chapter</p><span>✦</span></div>
+        <button class="primary-button reader-finish" type="button" id="finishReading">Mark as finished <span aria-hidden="true">✓</span></button>
       </article>
     </div>
   </dialog>

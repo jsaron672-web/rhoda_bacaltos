@@ -5,336 +5,336 @@ const books = [
   {
     id: "harry-potter", title: "Harry Potter and the Sorcerer's Stone", author: "J.K. Rowling",
     genre: "Fantasy", category: "Fantasy", cover: "images/HARRY_POTTER_1792598517484.jpeg",
-    synopsis: "Isang batang lalaki ang nakatuklas na isa siyang wizard at nagsimulang mag-aral ng mahika sa Hogwarts School of Witchcraft and Wizardry.",
-    chapterTitle: "Ang liham na hindi inaasahan",
+    synopsis: "A young boy discovers that he is a wizard and begins studying magic at Hogwarts School of Witchcraft and Wizardry.",
+    chapterTitle: "The Unexpected Letter",
     chapter: [
-      "May mga araw na parang walang kakaiba sa lahat: ang parehong almusal, ang parehong hagdan, at ang parehong sulok ng bahay na tila laging may lihim. Pero minsan, isang maliit na bagay lang ang kailangan para magbago ang buong mundo.",
-      "Sa umagang iyon, may dumating na liham na may pangalang hindi dapat alam ng sinuman. Makapal ang papel, kakaiba ang sulat, at tila may dalang paanyaya sa isang buhay na hindi pa naiisip ng batang tatanggap nito.",
-      "Hindi pa niya alam kung ano ang nasa kabilang panig ng pintuan. Ang alam lang niya, sa unang pagkakataon, may isang lugar na tila naghihintay para sa kanya."
+      "Some days seem entirely ordinary: the same breakfast, the same staircase, and the same quiet corner that always feels a little mysterious. Sometimes, though, one small surprise is enough to change everything.",
+      "That morning, a letter arrived bearing a name no one should have known. Its paper was thick, its handwriting unfamiliar, and its invitation pointed toward a life the young recipient had never imagined.",
+      "The boy did not yet know what waited beyond the door. He only knew that, for the first time, a place seemed to be waiting for him."
     ]
   },
   {
     id: "hunger-games", title: "The Hunger Games", author: "Suzanne Collins", genre: "Dystopian / Science Fiction", category: "Sci-Fi",
     cover: "images/HUNGER_GAMES_1792598517483.jpeg",
-    synopsis: "Nagboluntaryo si Katniss Everdeen para sumali sa isang mapanganib na paligsahang ipinapalabas sa telebisyon upang iligtas ang kaniyang nakababatang kapatid.",
-    chapterTitle: "Isang pangakong kailangang tuparin",
+    synopsis: "Katniss Everdeen volunteers for a dangerous televised competition to save her younger sister.",
+    chapterTitle: "A Promise to Keep",
     chapter: [
-      "Maaga pa nang magising si Mara sa tunog ng hangin sa bintana. Sa maliit nilang bahay, alam ng lahat na darating ang araw ng pagpili; walang nagtanong kung handa ba sila.",
-      "Nang marinig niya ang pangalan ng kapatid, tumigil ang mundo sa isang saglit. Pagkatapos ay umusad ang mga paa niya bago pa makapag-isip ang isip. Isang hakbang pasulong, isang pangakong hindi na mababawi.",
-      "Sa malayong entablado, nakatutok na ang mga kamera. Sa loob niya, malinaw lamang ang isang bagay: kailangan niyang umuwi kasama ang kapatid."
+      "Mara woke early to the wind rattling the window. In their small home, everyone knew the day of the selection was coming; no one asked whether they were ready.",
+      "When she heard her sister's name, the world seemed to stop. Then her feet moved before she could think: one step forward, one promise she could not take back.",
+      "Cameras were already trained on the distant stage. One thought stayed clear in her mind: she had to find a way home with her sister."
     ]
   },
   {
     id: "fault-in-our-stars", title: "The Fault in Our Stars", author: "John Green", genre: "Romance / Young Adult", category: "Romance",
     cover: "images/THE_FAULT_IN_OUR_STARS_1792598517481.jpeg",
-    synopsis: "Nagkakilala ang dalawang teenager sa isang support group at bumuo ng makabuluhang ugnayan habang hinaharap ang mahihirap na pangyayari.",
-    chapterTitle: "Sa silid na puno ng mga kuwento",
+    synopsis: "Two teenagers meet at a support group and form a meaningful connection while facing difficult circumstances.",
+    chapterTitle: "A Room Full of Stories",
     chapter: [
-      "Hindi paborito ni Lia ang mga sirkulong may upuan. Sa bawat linggo, pareho ang ayos ng silid at halos pareho rin ang mga kuwento, pero may bagong mukha sa tabi ng bintana.",
-      "Nagpalitan sila ng tingin at ng isang maingat na ngiti. Walang malaking pangako, walang eksenang parang pelikula—isang biro lang tungkol sa malamig na kape at sa librong dala niya.",
-      "Pag-uwi ni Lia, naisip niyang may mga taong dumarating hindi para ayusin ang lahat, kundi para samahan kang makita ang mga bagay na maganda pa rin."
+      "Lia never liked circles of chairs. Each week, the room looked the same and the stories sounded familiar, but this time a new face sat beside the window.",
+      "They exchanged a glance and a careful smile. There were no grand promises or movie-like moments—just a joke about cold coffee and the book he had brought.",
+      "On her way home, Lia thought that some people do not arrive to fix everything. They simply help you notice what is still good."
     ]
   },
   {
     id: "the-hobbit", title: "The Hobbit", author: "J.R.R. Tolkien", genre: "Fantasy / Adventure", category: "Fantasy",
     cover: "images/HOBBIT_1792598517480.jpg",
-    synopsis: "Sumama si Bilbo Baggins sa isang pangkat ng mga dwarf sa paglalakbay upang mabawi ang kanilang tahanan at kayamanang inagaw ng dragon.",
-    chapterTitle: "Isang paanyaya sa pintuan",
+    synopsis: "Bilbo Baggins joins a group of dwarves on a quest to reclaim their homeland and treasure from a dragon.",
+    chapterTitle: "An Invitation at the Door",
     chapter: [
-      "Gusto ni Berto ang mga umagang walang sorpresa: mainit na tsaa, tahimik na hardin, at isang paboritong upuang hindi kailangang ibahagi. Kaya nang may kumatok, sinubukan niyang huwag pansinin.",
-      "Muli itong kumatok. Pagbukas niya, may estrangherong may dalang mapa at tanong tungkol sa isang daang matagal nang nalimutan. Sa likod nito, kumislap ang pangako ng isang paglalakbay na hindi kasya sa sala.",
-      "Isinara ni Berto ang pinto, tumingin sa maayos niyang tahanan, at napaisip kung gaano katagal niya nang hindi tinatanong ang sarili kung ano ang nasa kabila ng burol."
+      "Berto liked mornings without surprises: hot tea, a quiet garden, and a favorite chair all to himself. So when someone knocked, he tried to ignore it.",
+      "The knock came again. Outside stood a stranger with a map and a question about a road long forgotten. Beyond it waited the promise of a journey far too large for the sitting room.",
+      "Berto closed the door, looked at his tidy home, and wondered how long it had been since he asked himself what lay beyond the hill."
     ]
   },
   {
     id: "sherlock-holmes", title: "Sherlock Holmes: The Hound of the Baskervilles", author: "Arthur Conan Doyle", genre: "Mystery / Detective", category: "Mystery",
     cover: "images/SHERLOCK_HOLMES_1792598517478.jpeg",
-    synopsis: "Iniimbestigahan ni Sherlock Holmes ang isang mahiwagang alamat tungkol sa nakatatakot na asong hound at sa isang mayamang pamilya.",
-    chapterTitle: "Mga bakas sa hamog",
+    synopsis: "Sherlock Holmes investigates a mysterious legend about a terrifying hound and a wealthy family.",
+    chapterTitle: "Footprints in the Fog",
     chapter: [
-      "Dumating ang bisita sa Baker Street na may dalang lumang baston at mas lumang takot. Sa labas, nakabalot sa hamog ang lungsod; sa loob, tahimik na pinagmasdan ng detektib ang bawat gasgas sa kahoy.",
-      "May isang kuwento tungkol sa lupain sa moor, isang pamilya, at isang alulong na hindi maipaliwanag. Ang bisita ay humingi ng tulong, ngunit mas interesado ang detektib sa mga bagay na hindi sinabi.",
-      "Nang matapos ang usapan, inilapag niya ang mapa sa mesa. Ang alamat ay maaaring totoo o hindi—pero ang mga bakas, sabi niya, ay laging may pinanggalingan."
+      "The visitor arrived on Baker Street carrying an old walking stick and an even older fear. Fog covered the city outside; indoors, the detective quietly studied every mark on the wood.",
+      "There was a story about a stretch of moor, a family, and an unexplained howl. The visitor asked for help, but the detective was more interested in what had been left unsaid.",
+      "When the conversation ended, he placed a map on the table. The legend might be true or false—but footprints, he said, always came from somewhere."
     ]
   },
   {
     id: "pride-and-prejudice", title: "Pride and Prejudice", author: "Jane Austen", genre: "Romance / Classic", category: "Romance",
     cover: "images/PRIDE_1792598517476.webp",
-    synopsis: "Hinarap ni Elizabeth Bennet ang pag-ibig, inaasahan ng pamilya, at pagkakaiba ng katayuan habang natututo siyang kuwestiyunin ang unang impresyon.",
-    chapterTitle: "Mga unang impresyon",
+    synopsis: "Elizabeth Bennet navigates love, family expectations, and social class while learning to question her first impressions.",
+    chapterTitle: "First Impressions",
     chapter: [
-      "Sa hapag-kainan, mas mabilis pang kumalat ang balita tungkol sa bagong kapitbahay kaysa sa amoy ng bagong lutong tinapay. May nagsabing mayaman siya; may nagsabing suplado; at may nagpasiyang alam na nila ang buong pagkatao niya.",
-      "Nakinig si Elise sa lahat, saka nagtanong kung sino sa kanila ang aktuwal na nakausap nito. Walang sumagot agad. Natawa siya, hindi dahil may alam siyang sikreto, kundi dahil napakadaling punan ng palagay ang mga puwang.",
-      "Kinabukasan, sa isang pagtitipon, nagtagpo ang kanilang mga mata. Isang sandali lamang iyon—sapat para malaman ni Elise na maaaring hindi laging tama ang unang kuwento."
+      "At the dinner table, news of the new neighbor spread faster than the smell of fresh bread. One person called him wealthy, another called him rude, and everyone seemed certain they understood his whole character.",
+      "Elise listened, then asked who had actually spoken with him. No one answered right away. She laughed—not because she knew a secret, but because assumptions filled empty spaces so easily.",
+      "The next day, their eyes met at a gathering. It lasted only a moment, but it was enough for Elise to wonder whether the first story was always the right one."
     ]
   },
   {
     id: "little-prince", title: "The Little Prince", author: "Antoine de Saint-Exupéry", genre: "Fantasy / Philosophical Fiction", category: "Fantasy",
     cover: "images/LITTLE_PRINCE_1792598517474.webp",
-    synopsis: "Naglakbay ang isang batang prinsipe sa iba't ibang planeta at natutuhan ang tungkol sa pagkakaibigan, pag-ibig, pananagutan, at buhay.",
-    chapterTitle: "Isang bisita sa ilalim ng mga bituin",
+    synopsis: "A young prince travels between planets and discovers lessons about friendship, love, responsibility, and life.",
+    chapterTitle: "A Visitor Beneath the Stars",
     chapter: [
-      "Sa maliit na planetang may tatlong bulkan at isang nag-iisang puno, maingat na binilang ng bata ang mga bituin. Hindi dahil mawawala ang mga ito, kundi dahil gusto niyang malaman kung may nakatingin din mula sa malayo.",
-      "Isang gabi, may lumitaw na ilaw sa kalangitan na hindi gumagalaw gaya ng iba. Sa halip na matakot, nagtanong siya kung sino ang naroon at kung may dala itong kuwento.",
-      "Mula sa malayong mundo ay dumating ang sagot: may mga bagay na hindi nakikita sa unang tingin, pero nagiging mahalaga kapag inalagaan."
+      "On a small planet with three volcanoes and one solitary tree, the child carefully counted the stars. Not because they might disappear, but because he wondered whether anyone far away was looking back.",
+      "One night, a light appeared in the sky and moved unlike the others. Instead of being afraid, he asked who was there and whether the visitor had a story to share.",
+      "An answer came from a distant world: some things are not obvious at first, but become precious when someone cares for them."
     ]
   },
   {
     id: "the-alchemist", title: "The Alchemist", author: "Paulo Coelho", genre: "Adventure / Philosophical Fiction", category: "Fantasy",
     cover: "images/ALCHEMIST_1792598517452.jpg",
-    synopsis: "Naglakbay ang isang pastol upang hanapin ang kayamanan at natutuhan ang tungkol sa pagsunod sa pangarap at pagtuklas ng sariling layunin.",
-    chapterTitle: "Ang pangarap sa ilalim ng puno",
+    synopsis: "A shepherd travels in search of treasure and learns about following his dreams and discovering his purpose.",
+    chapterTitle: "A Dream Beneath the Tree",
     chapter: [
-      "Tuwing gabi, bumabalik sa isip ni Tomas ang parehong panaginip: isang punong hindi niya kilala at isang liwanag sa dulo ng malawak na lupain. Sa umaga, ikinukuwento niya ito sa isang matandang tagapag-alaga ng mga tupa.",
-      "Hindi sinabi ng matanda kung ano ang ibig sabihin ng panaginip. Sa halip, tinanong niya kung ano ang unang hakbang na kayang gawin ni Tomas ngayon. Minsan, mas mahirap ang tanong kaysa sa sagot.",
-      "Kaya nag-impake si Tomas ng tinapay, tubig, at lakas ng loob. Hindi niya alam kung saan hahantong ang daan, pero alam niyang nagsisimula ito sa pag-alis."
+      "Every night, the same dream returned to Tomas: an unfamiliar tree and a light at the edge of a wide plain. Each morning, he told it to an old shepherd.",
+      "The old man did not explain the dream. Instead, he asked what first step Tomas could take today. Sometimes the question was harder than any answer.",
+      "So Tomas packed bread, water, and courage. He did not know where the road would lead, but he knew it began when he set out."
     ]
   },
   {
     id: "1984", title: "1984", author: "George Orwell", genre: "Dystopian / Political Fiction", category: "Sci-Fi",
     cover: "images/1984_1792598517448.jpeg",
-    synopsis: "Sinisikap ng isang lalaki na panatilihin ang kaniyang pagkatao sa lipunang kontrolado ng mapaniil na pamahalaang nagmamatyag sa mga mamamayan.",
-    chapterTitle: "Ang tala sa gilid ng pahina",
+    synopsis: "A man struggles to preserve his individuality in a society controlled by an oppressive government that monitors its citizens.",
+    chapterTitle: "A Note in the Margin",
     chapter: [
-      "Sa lungsod na walang tahimik na sulok, natutong magsalita si Nilo sa mga pangungusap na ligtas pakinggan. Sa mga pampublikong pader, paulit-ulit ang mga mensaheng nagsasabing walang nakakalimutan ang pamahalaan.",
-      "May maliit siyang kuwaderno na halos hindi makita sa ilalim ng sahig. Doon niya isinulat ang petsa, ang tunog ng ulan, at ang pangalan ng isang kaibigang matagal nang hindi nakikita.",
-      "Hindi niya alam kung may makakabasa nito. Pero sa bawat salitang isinulat niya, naaalala niyang may sariling isip pa rin siya."
+      "In a city with no truly quiet corner, Nilo learned to speak in sentences that sounded safe. Public walls repeated the same message: the government forgot nothing.",
+      "He kept a small notebook hidden beneath a floorboard. In it, he wrote the date, the sound of rain, and the name of a friend he had not seen in a long time.",
+      "He did not know whether anyone would ever read it. Still, every word reminded him that his thoughts were his own."
     ]
   },
   {
     id: "to-kill-a-mockingbird", title: "To Kill a Mockingbird", author: "Harper Lee", genre: "Classic / Social Fiction", category: "Classic",
     cover: "images/MOCKINGBIRD_1792598517446.jpeg",
-    synopsis: "Nasasaksihan ng isang batang babae ang kawalang-katarungang panlahi at tapang na moral sa kaniyang komunidad sa Timog Amerika.",
-    chapterTitle: "Ang tanong sa lilim ng puno",
+    synopsis: "A young girl witnesses racial injustice and moral courage in her Southern American community.",
+    chapterTitle: "A Question Beneath the Tree",
     chapter: [
-      "Sa maalikabok na kalsada, maraming kuwentong alam ng mga bata kahit hindi nila lubos na nauunawaan. Pinagmamasdan ni Mina ang mga matatandang nag-uusap sa tindahan at napansing may mga taong hindi pinakikinggan kahit malinaw ang sinasabi.",
-      "Nang tanungin niya ang kaniyang ama kung bakit, hindi ito nagbigay ng madaling sagot. Sa halip, hiniling nitong isipin niya kung ano ang makatarungan kapag walang nakatingin.",
-      "Kinagabihan, isinulat ni Mina ang tanong sa isang papel. Hindi pa niya alam ang lahat ng sagot, pero alam niyang mahalagang magpatuloy sa pagtatanong."
+      "On the dusty road, children heard many stories they did not yet fully understand. Mina watched the adults talk at the store and noticed that some people were ignored even when they spoke clearly.",
+      "When she asked her father why, he did not offer an easy answer. Instead, he asked her to think about what was fair when no one was watching.",
+      "That evening, Mina wrote the question on a piece of paper. She did not know all the answers yet, but she knew it mattered to keep asking."
     ]
   },
   {
     id: "great-gatsby", title: "The Great Gatsby", author: "F. Scott Fitzgerald", genre: "Classic / Tragedy", category: "Classic",
     cover: "images/GATSBY_1792598475234.webp",
-    synopsis: "Hinahabol ng isang misteryosong milyonaryo ang nawalang pag-ibig habang sinusuri ng kuwento ang yaman, ambisyon, at American Dream.",
-    chapterTitle: "Mga ilaw sa kabilang pampang",
+    synopsis: "A mysterious millionaire pursues a lost romance as the story examines wealth, ambition, and the American Dream.",
+    chapterTitle: "Lights Across the Water",
     chapter: [
-      "Tuwing gabi, nagliliwanag ang mansiyon sa tapat ng look. Dumadating ang mga sasakyan, tumutugtog ang musika, at umaabot sa tubig ang mga tinig ng mga taong hindi kailanman nagpakilala.",
-      "Sa kabilang pampang, may isang lalaking laging nakatayo sa ilalim ng puno. Hindi siya sumasali sa kasiyahan. Tinitingnan lamang niya ang isang maliit na ilaw sa malayo na para bang iyon ang tanging bagay na mahalaga.",
-      "May mga pangarap na napakaliwanag mula sa malayo. Kapag nilapitan, saka lamang makikita kung ano ang tunay na laman ng mga ito."
+      "Each night, the mansion across the bay glowed with light. Cars arrived, music played, and voices drifted over the water from people who never introduced themselves.",
+      "On the opposite shore, a man always stood beneath a tree. He never joined the celebration. He watched a small light in the distance as if it were the only thing that mattered.",
+      "Some dreams shine brightest from far away. Only when you come closer can you see what they are really made of."
     ]
   },
   {
     id: "narnia", title: "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe", author: "C.S. Lewis", genre: "Fantasy / Adventure", category: "Fantasy",
     cover: "images/NARNIA_1792598475235.jpg",
-    synopsis: "Pumasok ang apat na magkakapatid sa mahiwagang mundo at tumulong lumaban sa makapangyarihang mangkukulam na nagkulong sa lupain sa walang katapusang taglamig.",
-    chapterTitle: "Ang pintuang nasa likod ng mga amerikana",
+    synopsis: "Four siblings enter a magical world and help fight a powerful witch who has trapped the land in endless winter.",
+    chapterTitle: "The Door Behind the Coats",
     chapter: [
-      "Habang nagtatago sa maingay na laro, binuksan ni Lina ang pinto ng lumang aparador. Inasahan niya ang mga amerikana at alikabok, ngunit may malamig na hangin na dumampi sa kaniyang mukha.",
-      "Humakbang siya sa pagitan ng mga damit at naramdaman ang niyebe sa ilalim ng sapatos. Sa unahan, may mga punong nababalutan ng yelo at isang poste ng ilaw na tila nag-iisang bantay sa kagubatan.",
-      "Sa likod niya ay ang pamilyar na silid; sa harap niya ay isang mundong hindi pa niya nakikita. Sandali siyang nag-atubili, saka nagpatuloy."
+      "While hiding during a noisy game, Lina opened the door of an old wardrobe. She expected coats and dust, but a cold breeze touched her face.",
+      "She stepped between the clothes and felt snow beneath her shoes. Ahead stood ice-covered trees and a lamppost that seemed to be the forest's only guard.",
+      "Behind her was a familiar room; in front of her was a world she had never seen. She hesitated for a moment, then walked on."
     ]
   },
   {
     id: "percy-jackson", title: "Percy Jackson and the Lightning Thief", author: "Rick Riordan", genre: "Fantasy / Mythology", category: "Fantasy",
     cover: "images/PERCY_1792598475230.jpeg",
-    synopsis: "Nadiskubre ni Percy Jackson na isa siyang demigod at nagsimula sa isang misyon tungkol sa mga diyos ng Gresya at nawawalang kidlat.",
-    chapterTitle: "Isang field trip na hindi pangkaraniwan",
+    synopsis: "Percy Jackson discovers that he is a demigod and begins a quest involving the Greek gods and a stolen lightning bolt.",
+    chapterTitle: "A Field Trip Like No Other",
     chapter: [
-      "Nagsimula ang araw ni Pio sa karaniwang paalala: huwag ma-late, huwag makipagtalo, at huwag hawakan ang mga exhibit. Pagsapit ng tanghali, tila sabay-sabay namang nasira ang lahat ng patakarang iyon.",
-      "May narinig siyang kakaibang kulog sa loob ng museo kahit maaraw sa labas. Isang guro ang nagtanong kung may nakita siya, ngunit bago pa siya makasagot, nagbago ang liwanag sa bulwagan.",
-      "Sa gabing iyon, sinabi ng isang kaibigan na may mga alamat na hindi lang kuwento. At kung totoo iyon, matagal nang may mga mata sa kanya ang mga diyos."
+      "Pio's day began with the usual reminders: do not be late, do not argue, and do not touch the exhibits. By noon, all three rules seemed to have failed at once.",
+      "He heard a strange rumble inside the museum even though the sky outside was clear. A teacher asked whether he had seen anything, but before he could answer, the light in the hall changed.",
+      "That night, a friend told him that some myths were more than stories. If that was true, the gods might have been watching him for a long time."
     ]
   },
   {
     id: "maze-runner", title: "The Maze Runner", author: "James Dashner", genre: "Science Fiction / Thriller", category: "Sci-Fi",
     cover: "images/MAZE_RUNNER_1792598475232.webp",
-    synopsis: "Nagising ang isang teenager sa isang mahiwagang lugar na napapalibutan ng pader at nakipagtulungan sa iba upang lutasin ang lihim ng mapanganib na maze.",
-    chapterTitle: "Pagmulat sa gitna ng mga pader",
+    synopsis: "A teenager wakes in a mysterious walled place and works with others to uncover the secrets of a dangerous maze.",
+    chapterTitle: "Awakening Among the Walls",
     chapter: [
-      "Nagising si Ren sa tunog ng bakal na gumagalaw. Hindi niya maalala ang pangalan niya, ang tahanan niya, o kung paano siya nakarating sa madilim na elevator.",
-      "Nang bumukas ang pinto, sinalubong siya ng mga mukha ng mga kabataang tila matagal nang naghihintay. Sa paligid nila ay may malalaking pader, at sa likod ng mga iyon ay isang pasilyong nagbabago sa bawat gabi.",
-      "Walang makapagbigay ng kumpletong sagot. Pero may mga palatandaan sa bato, at may mga taong handang tumulong. Kailangan lamang niyang alamin kung ano ang dapat itanong muna."
+      "Ren woke to the sound of moving metal. He could not remember his name, his home, or how he had ended up inside the dark elevator.",
+      "When the doors opened, a group of young people seemed to have been waiting for him. Massive walls surrounded them, and beyond those walls lay passages that shifted each night.",
+      "No one had a complete answer. But there were marks in the stone and people willing to help. He only needed to decide what to ask first."
     ]
   },
   {
     id: "divergent", title: "Divergent", author: "Veronica Roth", genre: "Dystopian / Science Fiction", category: "Sci-Fi",
     cover: "images/DIVERGENT_1792598475229.jpeg",
-    synopsis: "Sa lipunang hinahati ang mga tao ayon sa personalidad, natuklasan ng isang dalaga na hindi siya nababagay sa iisang pangkat lamang.",
-    chapterTitle: "Ang araw ng pagpili",
+    synopsis: "In a society divided into factions by personality, a young woman discovers that she does not fit into just one group.",
+    chapterTitle: "The Day of Choosing",
     chapter: [
-      "Sa lungsod ni Talia, maagang pinipili ng lahat kung anong uri ng tao sila dapat maging. May mga pagsusulit, seremonya, at payo mula sa pamilyang umaasang mananatili siya sa nakasanayang landas.",
-      "Sa silid ng pagsusulit, may mga sagot siyang hindi nagtugma sa mga kahon. Tumingin sa kanya ang tagasuri at sinabing huwag itong ikuwento kaninuman.",
-      "Pag-uwi niya, mas mabigat ang sikreto kaysa sa takot. Kung hindi siya kasya sa iisang pangkat, baka may dahilan kung bakit kailangang pumili siya ng sarili niyang direksiyon."
+      "In Talia's city, everyone chose early what kind of person they were expected to become. Tests, ceremonies, and family advice all pointed toward the familiar path.",
+      "In the testing room, some of her answers refused to fit the boxes. The examiner looked at her and told her to keep the result secret.",
+      "On her way home, the secret felt heavier than the fear. If she did not belong to only one group, perhaps she needed to choose her own direction."
     ]
   },
   {
     id: "book-thief", title: "The Book Thief", author: "Markus Zusak", genre: "Historical Fiction / Drama", category: "History",
     cover: "images/BOOK_THIEF_1792598475228.jpeg",
-    synopsis: "Nakahanap ng ginhawa ang isang batang babae sa pagnanakaw at pagbabahagi ng mga libro sa gitna ng digmaan at pag-uusig sa Nazi Germany.",
-    chapterTitle: "Mga salitang napulot sa daan",
+    synopsis: "A young girl finds comfort in stealing and sharing books amid war and persecution in Nazi Germany.",
+    chapterTitle: "Words Found Along the Road",
     chapter: [
-      "Sa bayang laging may matang nakatingin, natutong magtago si Leni ng mga bagay na hindi naman dapat nakawin: isang pahina, isang pangungusap, isang pangalan na ayaw niyang makalimutan.",
-      "Isang araw, may librong naiwan sa tabi ng daan. Maingat niya itong pinulot, hindi para yumaman kundi dahil gusto niyang malaman kung anong uri ng mundo ang nasa loob nito.",
-      "Sa gabing iyon, binasa niya ang ilang linya sa isang silid na madilim. Sa labas, patuloy ang takot; sa loob, may mga salitang nagbibigay sa kaniya ng lakas para magpatuloy."
+      "In a town where someone always seemed to be watching, Leni learned to hide things that should never have been stolen: a page, a sentence, a name she refused to forget.",
+      "One day, she found a book left beside the road. She picked it up carefully, not to gain anything, but to discover what kind of world waited inside.",
+      "That night, she read a few lines in a dark room. Fear continued outside; inside, the words gave her strength to keep going."
     ]
   },
   {
     id: "frankenstein", title: "Frankenstein", author: "Mary Shelley", genre: "Gothic Horror / Science Fiction", category: "Horror",
     cover: "images/FRANKENSTEIN_1792598475226.jpeg",
-    synopsis: "Lumikha ang isang siyentista ng buhay na nilalang, na humantong sa trahedya at mga tanong tungkol sa pananagutan at pagkatao.",
-    chapterTitle: "Ang makinang hindi dapat gumana",
+    synopsis: "A scientist creates a living being, leading to tragedy and questions about responsibility and what it means to be human.",
+    chapterTitle: "The Machine That Should Not Work",
     chapter: [
-      "Sa itaas ng bayan, may pagawaan na hindi natutulog. Sa loob nito, nag-iipon si Elias ng mga tala, kagamitan, at tanong na hindi kayang sagutin ng kaniyang mga kasamahan.",
-      "Nang gabing iyon, gumalaw ang karayom sa metro. Kumislap ang ilaw, umalingawngaw ang tunog ng bagyo, at may mahinang paghinga sa kabilang dulo ng silid.",
-      "Napatigil si Elias. Ang una niyang naramdaman ay tagumpay; ang sumunod ay takot. Sa pagitan ng dalawa, naunawaan niyang may mga bagay na hindi natatapos sa sandaling magawa mo ang mga ito."
+      "Above the town stood a workshop that never slept. Inside, Elias collected notes, tools, and questions his colleagues could not answer.",
+      "That night, the needle on the meter moved. The lights flickered, thunder echoed outside, and a faint breath came from the far end of the room.",
+      "Elias froze. First came triumph, then fear. Somewhere between the two, he understood that some things do not end when you create them."
     ]
   },
   {
     id: "dracula", title: "Dracula", author: "Bram Stoker", genre: "Gothic Horror", category: "Horror",
     cover: "images/DRACULA_1792598475225.jpeg",
-    synopsis: "Hinarap ng isang pangkat ang Count Dracula, isang misteryosong maharlikang may nakatatakot na lihim na supernatural.",
-    chapterTitle: "Ang panauhin sa lumang tahanan",
+    synopsis: "A group confronts Count Dracula, a mysterious nobleman with a terrifying supernatural secret.",
+    chapterTitle: "A Guest at the Old House",
     chapter: [
-      "Dumating si Adrian sa bundok bago lumubog ang araw. Sa bawat milya, kumakaunti ang mga bahay at dumarami ang mga babalang hindi dapat maglakbay nang mag-isa.",
-      "Sa tuktok ay naghihintay ang isang matandang tahanang may nakabukas na tarangkahan. Tinanggap siya ng may-ari nito nang magalang, ngunit walang nakikitang salamin sa malawak na bulwagan.",
-      "Nang sumapit ang hatinggabi, nagising si Adrian sa tunog ng mabagal na mga hakbang. Sa labas, walang hangin. Sa loob, may pinto na bahagyang nakabukas."
+      "Adrian reached the mountains before sunset. With every mile, houses became fewer and warnings against traveling alone became more frequent.",
+      "At the summit stood an old house with its gate already open. The owner welcomed him politely, but no mirrors hung in the broad hall.",
+      "At midnight, Adrian woke to the sound of slow footsteps. Outside, the air was still. Inside, a door stood slightly open."
     ]
   },
   {
     id: "the-shining", title: "The Shining", author: "Stephen King", genre: "Horror / Psychological Thriller", category: "Horror",
     cover: "images/SHINING_1792598475224.jpeg",
-    synopsis: "Nakaranas ang isang pamilyang nananatili sa liblib na hotel ng unti-unting lumalalang mga pangyayaring tila sobrenatural.",
-    chapterTitle: "Tahimik ang pasilyo",
+    synopsis: "A family staying at an isolated hotel experiences increasingly disturbing events that seem supernatural.",
+    chapterTitle: "The Quiet Hallway",
     chapter: [
-      "Sa taglamig, ang hotel ay naging isla sa gitna ng niyebe. Dinala ni Mara ang kaniyang pamilya roon para sa bagong trabaho at bagong simula, kahit halos walang dumaraang sasakyan.",
-      "Sa unang gabi, tahimik ang mga silid. Sa ikalawa, may narinig siyang tunog ng elevator kahit patay ang kuryente sa pakpak na iyon ng gusali.",
-      "Sinabi niyang hangin lamang iyon. Pero nang bumukas ang pinto ng pasilyo, may sariwang niyebe sa sahig at mga bakas ng paa na nagtatapos sa harap ng kanilang silid."
+      "In winter, the hotel became an island surrounded by snow. Mara brought her family there for a new job and a fresh start, though almost no cars passed by.",
+      "The first night was quiet. On the second, she heard the elevator even though the power was off in that wing of the building.",
+      "She told herself it was only the wind. But when the hallway door opened, fresh snow covered the floor, and a trail of footprints stopped outside their room."
     ]
   },
   {
     id: "murder-orient-express", title: "Murder on the Orient Express", author: "Agatha Christie", genre: "Mystery / Crime", category: "Mystery",
     cover: "images/MURDER_1792598475222.avif",
-    synopsis: "Iniimbestigahan ng detektib na si Hercule Poirot ang isang pagpatay sa marangyang tren na naipit sa niyebe.",
-    chapterTitle: "Isang gabi sa tren",
+    synopsis: "Detective Hercule Poirot investigates a murder aboard a luxury train trapped by snow.",
+    chapterTitle: "A Night on the Train",
     chapter: [
-      "Puno ang tren ng mga pasaherong may dalang sariling dahilan sa paglalakbay. Sa dining car, tahimik na kumain ang isang detektib habang pinagmamasdan ang mga kamay, boses, at katahimikan ng bawat isa.",
-      "Pagsapit ng hatinggabi, huminto ang tren sa gitna ng niyebe. Walang istasyon sa malapit at walang bakas ng ibang sasakyan sa labas.",
-      "Nang dumating ang balita tungkol sa isang pasaherong hindi na nagising, nagbago ang lahat ng usapan. Nasa iisang karwahe ang lahat ng posibleng sagot—at lahat ng posibleng tanong."
+      "The train was full of passengers, each carrying a reason for traveling. In the dining car, a detective ate quietly while studying everyone's hands, voices, and silences.",
+      "At midnight, the train stopped in the snow. There was no station nearby and no sign of another vehicle outside.",
+      "When news arrived that a passenger would not wake again, every conversation changed. All the possible answers—and all the possible questions—were in the same carriage."
     ]
   },
   {
     id: "da-vinci-code", title: "The Da Vinci Code", author: "Dan Brown", genre: "Mystery / Thriller", category: "Mystery",
     cover: "images/DAVINCI_1792598475221.webp",
-    synopsis: "Iniimbestigahan ng isang symbologist ang isang pagpatay at sinusundan ang mga palatandaang pangkasaysayan, lihim na samahan, at nakatagong mensahe.",
-    chapterTitle: "Ang simbolong naiwan",
+    synopsis: "A symbologist investigates a murder and follows a trail of historical clues, secret societies, and hidden messages.",
+    chapterTitle: "The Symbol Left Behind",
     chapter: [
-      "Nakatanggap si Mira ng tawag mula sa isang museo matapos magsara ang mga pinto. May guhit sa sahig na hindi kasama sa anumang tala, at may mensaheng nakasulat sa wikang hindi niya agad makilala.",
-      "Sa ilalim ng ilaw, napansin niyang hindi basta marka ang mga hugis. Magkakaugnay ang mga ito, parang mga piraso ng mapa na nakakalat sa iba't ibang panahon.",
-      "Kinuha niya ang kuwaderno at isinulat ang unang tanong: sino ang gustong may makakita nito? Ang sagot, alam niyang, ay magdadala sa kanya sa mas malalim na palaisipan."
+      "Mira received a call from a museum after its doors had closed. A line on the floor appeared in none of the records, and a message beside it was written in a language she did not recognize.",
+      "Under the lights, she realized the shapes were more than marks. They connected like pieces of a map scattered across different eras.",
+      "She opened her notebook and wrote the first question: who wanted this to be found? The answer, she knew, would lead to a deeper puzzle."
     ]
   },
   {
     id: "the-martian", title: "The Martian", author: "Andy Weir", genre: "Science Fiction / Survival", category: "Sci-Fi",
     cover: "images/MARTIAN_1792598475220.jpg",
-    synopsis: "Na-stranded sa Mars ang isang astronaut at ginamit ang kaalamang siyentipiko at talino upang mabuhay habang naghihintay ng saklolo.",
-    chapterTitle: "Mga tala para sa susunod na araw",
+    synopsis: "An astronaut stranded on Mars uses scientific knowledge and ingenuity to survive while waiting for rescue.",
+    chapterTitle: "Notes for Tomorrow",
     chapter: [
-      "Nagising si Alex sa pulang alikabok at katahimikang walang katulad. Hindi gumagana ang komunikasyon at hindi makita ang kaniyang mga kasama. Ang tanging malinaw ay kailangan niyang alamin kung ano pa ang gumagana.",
-      "Sinuri niya ang hangin, tubig, at natitirang pagkain. Isinulat niya ang bawat sukat sa isang talaan, dahil mas madaling harapin ang problema kapag nahahati ito sa maliliit na hakbang.",
-      "Sa labas ng dome, ang planeta ay malawak at walang pakialam. Sa loob, may isang taong nagpasiyang subukan muli bukas."
+      "Alex woke to red dust and an unfamiliar silence. Communications were down and the rest of the crew was nowhere in sight. One thing was clear: he had to find out what still worked.",
+      "He checked the air, water, and remaining food. Each measurement went into a log; a problem felt more manageable when it was divided into smaller steps.",
+      "Outside the dome, the planet was vast and indifferent. Inside, one person decided to try again tomorrow."
     ]
   },
   {
     id: "dune", title: "Dune", author: "Frank Herbert", genre: "Science Fiction / Political Adventure", category: "Sci-Fi",
     cover: "images/DUNE_1792598475219.webp",
-    synopsis: "Nasangkot ang isang batang maharlika sa tunggalian para sa isang disyertong planeta na may mahalagang yamang kailangan ng buong sansinukob.",
-    chapterTitle: "Sa ilalim ng malawak na disyerto",
+    synopsis: "A young noble becomes entangled in a struggle over a desert planet whose precious resource is vital to the universe.",
+    chapterTitle: "Beneath the Vast Desert",
     chapter: [
-      "Bago pa makita ni Arin ang disyerto, naramdaman niya ang bigat nito sa mga usapan. Bawat kasunduan, bawat paglalakbay, at bawat lihim ng palasyo ay may kaugnayan sa buhangin at sa yamang nakatago rito.",
-      "Sa unang gabi sa bagong tahanan, tumayo siya sa balkonaheng nakaharap sa malawak na kapatagan. Walang ilaw sa abot-tanaw, ngunit may malalim na katahimikang tila may binabantayang lihim.",
-      "Sinabi ng kaniyang guro na ang kapangyarihan ay hindi lamang pag-aari; ito rin ay pananagutang may epekto sa lahat ng umaasa sa lupain."
+      "Before Arin ever saw the desert, he felt its weight in every conversation. Each agreement, journey, and palace secret seemed tied to the sand and the resource hidden beneath it.",
+      "On his first night in the new home, he stood on a balcony facing the immense plain. No lights marked the horizon, but the deep silence felt as if it guarded a secret.",
+      "His teacher told him that power was not only something to possess; it was also a responsibility that affected everyone who depended on the land."
     ]
   },
   {
     id: "the-giver", title: "The Giver", author: "Lois Lowry", genre: "Dystopian / Young Adult", category: "Sci-Fi",
     cover: "images/GIVER_1792598475202.jpeg",
-    synopsis: "Pinili ang isang batang lalaki upang magmana ng mga alaala ng komunidad at natuklasan niya ang kapalit ng pamumuhay sa tila perpektong lipunan.",
-    chapterTitle: "Ang araw bago ang tungkulin",
+    synopsis: "A boy is chosen to inherit his community's memories and discovers the hidden cost of living in a seemingly perfect society.",
+    chapterTitle: "The Day Before the Assignment",
     chapter: [
-      "Sa komunidad ni Niko, may nakatakdang oras para sa lahat: pagkain, trabaho, pahinga, at maging ang mga salitang ginagamit sa paghingi ng tawad. Bihira ang sorpresa at iyon ang itinuturing nilang kaligtasan.",
-      "Kinabukasan, iaanunsiyo ang tungkulin ng mga kabataan. Sinubukan ni Niko na hulaan kung saan siya ilalagay, pero may kung anong pakiramdam na hindi niya maipaliwanag.",
-      "Nang tawagin ang pangalan niya, tumahimik ang bulwagan. Sa unang pagkakataon, naramdaman niyang hindi pa niya alam ang lahat tungkol sa lugar na tinatawag niyang tahanan."
+      "In Niko's community, everything had a scheduled time: meals, work, rest, even the words people used to apologize. Surprises were rare, and that was considered a kind of safety.",
+      "The next day, the young people's assignments would be announced. Niko tried to guess where he would be placed, but an unfamiliar feeling kept interrupting his predictions.",
+      "When his name was called, the hall fell silent. For the first time, he felt he did not yet understand everything about the place he called home."
     ]
   },
   {
     id: "atomic-habits", title: "Atomic Habits", author: "James Clear", genre: "Self-Help / Personal Development", category: "Self-Help",
     cover: "images/ATOMIC_HABITS_1792598475217.webp",
-    synopsis: "Ipinapaliwanag ng aklat kung paano nakatutulong ang maliliit at tuloy-tuloy na pagbabago sa pagbuo ng mas mabubuting gawi at unti-unting pag-unlad.",
-    chapterTitle: "Ang unang maliit na hakbang",
+    synopsis: "This book explains how small, consistent changes can help people build better habits and improve over time.",
+    chapterTitle: "The First Small Step",
     chapter: [
-      "Nagpasya si Lira na magbago ng nakagawian. Sa unang araw, naglista siya ng sampung layunin at sinubukang simulan ang lahat. Sa ikatlong araw, pagod na siya at halos wala nang natapos.",
-      "Kinabukasan, pumili siya ng isang bagay na kayang gawin sa loob ng dalawang minuto: ilagay ang sapatos sa tabi ng pinto. Maliit iyon, pero naging malinaw ang susunod na hakbang.",
-      "Makalipas ang ilang linggo, hindi pa perpekto ang kaniyang iskedyul. Pero mas madali na siyang magsimula, at iyon ang maliit na pagbabagong gusto niyang panatilihin."
+      "Lira decided to change her routine. On the first day, she listed ten goals and tried to begin them all. By the third day, she was exhausted and had finished almost nothing.",
+      "The next morning, she chose one task that took less than two minutes: putting her shoes beside the door. It was small, but it made the next step obvious.",
+      "Weeks later, her schedule was still imperfect. But starting had become easier, and that small change was one she wanted to keep."
     ]
   },
   {
     id: "seven-habits", title: "The 7 Habits of Highly Effective People", author: "Stephen R. Covey", genre: "Self-Help / Leadership", category: "Self-Help",
     cover: "images/7_habits_1792598475201.jpeg",
-    synopsis: "Gabay ito sa personal na pagiging epektibo sa pamamagitan ng mga prinsipyong tulad ng pananagutan, pag-uuna sa mahalaga, at pakikipagtulungan.",
-    chapterTitle: "Mula sa intensiyon tungo sa kilos",
+    synopsis: "A guide to personal effectiveness built around principles such as responsibility, prioritization, and cooperation.",
+    chapterTitle: "From Intention to Action",
     chapter: [
-      "Sa simula ng linggo, sinubukan ni Ben na sagutin ang lahat ng mensahe at tapusin ang bawat gawaing dumating. Pagsapit ng Biyernes, abala siya buong panahon ngunit hindi niya nagawa ang pinakamahalagang proyekto.",
-      "Gumawa siya ng bagong listahan: hindi lamang kung ano ang kailangang gawin, kundi kung bakit mahalaga ang bawat gawain. Pinili niya ang dalawa at inilaan ang oras bago pa mapuno ang araw.",
-      "Hindi biglang nawala ang mga abala. Pero natutuhan niyang may pagkakaiba ang pagiging abala at ang pag-usad sa mga bagay na tunay niyang pinahahalagahan."
+      "At the start of the week, Ben tried to answer every message and finish every task that came his way. By Friday, he had been busy all week but had not completed his most important project.",
+      "He made a new list: not just what needed doing, but why each task mattered. He chose two priorities and gave them time before the day filled up.",
+      "The interruptions did not disappear. But he learned that being busy was different from making progress on the things he truly valued."
     ]
   },
   {
     id: "win-friends", title: "How to Win Friends and Influence People", author: "Dale Carnegie", genre: "Self-Help / Communication", category: "Self-Help",
     cover: "images/WIN_FRIENDS_1792598475199.webp",
-    synopsis: "Nagbibigay ito ng praktikal na mga prinsipyo para mapabuti ang pakikipag-usap, pagbuo ng ugnayan, at epektibong pakikipagtulungan.",
-    chapterTitle: "Ang pakikinig na may layunin",
+    synopsis: "Practical principles for improving communication, building relationships, and working effectively with others.",
+    chapterTitle: "Listening with Purpose",
     chapter: [
-      "Sa pulong ng pangkat, naghanda si Ana ng maraming sagot bago pa magsalita ang iba. Napansin niyang nauubos ang oras sa pagtatalo, at walang nakaaalala sa unang tanong.",
-      "Sa susunod na pulong, nagpasya siyang makinig muna. Nagtanong siya kung ano ang pinakamahalaga sa bawat kasamahan at inulit ang narinig niya upang tiyaking tama ang pagkaunawa.",
-      "Nagbago ang tono ng usapan. Hindi dahil sumang-ayon ang lahat, kundi dahil naramdaman nilang may puwang ang kanilang mga ideya."
+      "At the team meeting, Ana prepared answers before anyone else had spoken. She noticed that the time was disappearing into arguments, and no one remembered the original question.",
+      "At the next meeting, she decided to listen first. She asked what mattered most to each teammate, then repeated what she had heard to make sure she understood.",
+      "The tone of the conversation changed—not because everyone agreed, but because people felt their ideas had room to be heard."
     ]
   },
   {
     id: "rich-dad-poor-dad", title: "Rich Dad Poor Dad", author: "Robert T. Kiyosaki", genre: "Personal Finance / Education", category: "Finance",
     cover: "images/RICH_DAD_1792598475197.jpg",
-    synopsis: "Ibinabahagi ng may-akda ang mga aral tungkol sa financial literacy, assets, liabilities, at iba't ibang paraan ng pamamahala ng pera.",
-    chapterTitle: "Mga tanong tungkol sa pera",
+    synopsis: "The author shares lessons about financial literacy, assets, liabilities, and different approaches to managing money.",
+    chapterTitle: "Questions About Money",
     chapter: [
-      "Nang unang makatanggap si Noel ng sweldo, agad niyang inisip kung ano ang bibilhin. Pagkatapos, tinanong siya ng kaniyang tiyahin kung paano niya gustong magamit ang pera sa susunod na taon.",
-      "Hindi niya alam ang sagot. Magkasama nilang isinulat ang mga gastusin, ipon, at mga bagay na maaaring makatulong sa kaniyang mga layunin. Mas malinaw ang larawan nang mailagay ito sa papel.",
-      "Hindi naging madali ang bawat desisyon, pero natutuhan ni Noel na mas mabuting magtanong tungkol sa pera bago ito gastusin kaysa magsisi pagkatapos."
+      "When Noel received his first paycheck, he immediately thought about what to buy. Then his aunt asked how he wanted that money to help him over the next year.",
+      "He did not know the answer. Together, they wrote down expenses, savings, and things that could support his goals. The picture became clearer once it was on paper.",
+      "Not every decision was easy, but Noel learned that it was better to ask questions about money before spending it than to regret the choice afterward."
     ]
   },
   {
     id: "diary-young-girl", title: "The Diary of a Young Girl", author: "Anne Frank", genre: "Biography / Historical Nonfiction", category: "History",
     cover: "images/YOUNG_GIRL_1792598475195.jpg",
-    synopsis: "Itinatala sa talaarawan ni Anne Frank ang kaniyang mga saloobin, karanasan, at pag-asa habang nagtatago kasama ang pamilya noong Ikalawang Digmaang Pandaigdig.",
-    chapterTitle: "Mga alaala at pag-asa",
+    synopsis: "Anne Frank's diary records her thoughts, experiences, and hopes while she and her family hide during World War II.",
+    chapterTitle: "Memory and Hope",
     chapter: [
-      "May mga panahong ang isang kuwaderno ang nagiging tahimik na kausap. Sa gitna ng digmaan at panganib, isinulat ng isang kabataang babae ang mga bagay na hindi niya masabi nang malakas: ang lungkot, pagkainip, pagtatalo, at pag-asa.",
-      "Ang mga pahina niya ay hindi lamang tala ng mga pangyayari. Ipinakikita rin ng mga ito ang pagnanais na maunawaan ang sarili at ang mundong biglang naging makitid at mapanganib.",
-      "Ang kabanatang ito ay maikling gabay sa konteksto ng talaarawan, hindi sipi o bagong pahina na isinulat sa pangalan ni Anne Frank."
+      "Sometimes a notebook becomes a quiet companion. Amid war and danger, a young girl recorded feelings she could not always say aloud: loneliness, impatience, disagreement, and hope.",
+      "Her pages are more than a record of events. They also reveal a young person trying to understand herself and a world that had suddenly become narrow and dangerous.",
+      "This chapter is a brief guide to the diary's historical context. It is not a quotation or a newly invented page attributed to Anne Frank."
     ]
   },
   {
     id: "brief-history-time", title: "A Brief History of Time", author: "Stephen Hawking", genre: "Science / Nonfiction", category: "Science",
     cover: "images/TIME_1792598475193.jpeg",
-    synopsis: "Ipinapakilala ni Stephen Hawking ang mahahalagang ideya tungkol sa sansinukob, kabilang ang black holes, espasyo, panahon, at pinagmulan ng lahat.",
-    chapterTitle: "Mga tanong sa kalangitan",
+    synopsis: "Stephen Hawking introduces major ideas about the universe, including black holes, space, time, and the origins of everything.",
+    chapterTitle: "Questions in the Sky",
     chapter: [
-      "Kapag tumingala tayo sa gabi, nakikita natin ang mga liwanag na naglakbay nang napakalayo bago makarating sa ating mga mata. Dahil dito, ang pagtingin sa kalangitan ay maaari ring maging pagtingin sa nakaraan.",
-      "Sinisikap ng agham na ilarawan kung paano gumagalaw ang espasyo at panahon, at kung paano umusbong ang mga bagay na nakikita natin. Hindi lahat ng sagot ay simple, pero nagsisimula ang pag-unawa sa malinaw na tanong.",
-      "Sa unang kabanatang ito, ang paanyaya ay maging mausisa: ano ang nasa kabila ng nakikita natin, at anong ebidensiya ang makatutulong upang malaman iyon?"
+      "When we look up at night, we see light that began its journey long before it reached our eyes. Looking at the sky can also mean looking into the past.",
+      "Science tries to describe how space and time behave and how the objects we see came to exist. Not every answer is simple, but understanding begins with a clear question.",
+      "This first chapter invites curiosity: what lies beyond what we can see, and what evidence could help us find out?"
     ]
   }
 ];
 
-const categories = ["Lahat", "Fantasy", "Sci-Fi", "Romance", "Mystery", "Classic", "Horror", "Self-Help", "History", "Finance", "Science"];
+const categories = ["All", "Fantasy", "Sci-Fi", "Romance", "Mystery", "Classic", "Horror", "Self-Help", "History", "Finance", "Science"];
 const featuredIds = ["harry-potter", "1984", "great-gatsby", "murder-orient-express", "atomic-habits"];
 const $ = (selector, root = document) => root.querySelector(selector);
 const $$ = (selector, root = document) => [...root.querySelectorAll(selector)];
@@ -349,7 +349,7 @@ const storage = {
 };
 
 const state = {
-  category: "Lahat",
+  category: "All",
   query: "",
   sort: "featured",
   view: "library",
@@ -385,7 +385,7 @@ function renderFilters() {
 
 function matchesBook(book) {
   const queryMatch = !state.query || normalize(`${book.title} ${book.author} ${book.genre} ${book.synopsis}`).includes(normalize(state.query));
-  const categoryMatch = state.category === "Lahat" || book.category === state.category;
+  const categoryMatch = state.category === "All" || book.category === state.category;
   const shelfMatch = state.view !== "shelf" || state.favorites.has(book.id);
   return queryMatch && categoryMatch && shelfMatch;
 }
@@ -397,8 +397,8 @@ function renderBooks() {
   if (state.sort === "genre") visible.sort((a, b) => a.category.localeCompare(b.category) || a.title.localeCompare(b.title));
 
   $("#resultSummary").textContent = state.view === "shelf"
-    ? `${visible.length} ${visible.length === 1 ? "libro" : "na libro"} sa iyong shelf.`
-    : `${visible.length} ${visible.length === 1 ? "libro" : "na libro"} ang ipinapakita sa ${books.length} kabuuang libro.`;
+    ? `${visible.length} ${visible.length === 1 ? "book" : "books"} on your shelf.`
+    : `${visible.length} of ${books.length} books shown.`;
   $("#shelfNotice").hidden = state.view !== "shelf";
   $("#bookGrid").hidden = visible.length === 0;
   $("#emptyState").hidden = visible.length !== 0;
@@ -408,19 +408,19 @@ function renderBooks() {
     const favorite = state.favorites.has(book.id);
     return `
       <article class="book-card">
-        <button class="book-cover-button" type="button" data-action="details" data-id="${book.id}" aria-label="Tingnan ang detalye ng ${escapeHtml(book.title)}">
-          <img class="book-cover" src="${book.cover}" alt="Pabalat ng ${escapeHtml(book.title)}" loading="lazy">
-          <span class="cover-overlay"><span>Tingnan ang detalye →</span></span>
+        <button class="book-cover-button" type="button" data-action="details" data-id="${book.id}" aria-label="View details for ${escapeHtml(book.title)}">
+          <img class="book-cover" src="${book.cover}" alt="Cover of ${escapeHtml(book.title)}" loading="lazy">
+          <span class="cover-overlay"><span>View details →</span></span>
         </button>
-        <button class="favorite-button" type="button" data-action="favorite" data-id="${book.id}" aria-label="${favorite ? "Alisin sa" : "Idagdag sa"} My Shelf: ${escapeHtml(book.title)}" aria-pressed="${favorite}">${favorite ? "♥" : "♡"}</button>
+        <button class="favorite-button" type="button" data-action="favorite" data-id="${book.id}" aria-label="${favorite ? "Remove from" : "Add to"} My Shelf: ${escapeHtml(book.title)}" aria-pressed="${favorite}">${favorite ? "♥" : "♡"}</button>
         <div class="book-card-meta">
           <p class="book-genre">${escapeHtml(book.category)}</p>
           <h3>${escapeHtml(book.title)}</h3>
           <p class="book-author">${escapeHtml(book.author)}</p>
           ${progress > 0 ? `<div class="card-progress" title="Reading progress: ${progress}%"><span style="width:${progress}%"></span></div>` : ""}
           <div class="card-actions">
-            <button class="card-action read-action" type="button" data-action="read" data-id="${book.id}">${progress > 0 && progress < 100 ? "Magpatuloy" : "Basahin"}</button>
-            <button class="card-action" type="button" data-action="details" data-id="${book.id}">Detalye</button>
+            <button class="card-action read-action" type="button" data-action="read" data-id="${book.id}">${progress > 0 && progress < 100 ? "Continue reading" : "Read"}</button>
+            <button class="card-action" type="button" data-action="details" data-id="${book.id}">Details</button>
           </div>
         </div>
       </article>`;
@@ -434,18 +434,18 @@ function updateFeature() {
   const book = getBook(id);
   if (!book) return;
   $("#featureCover").src = book.cover;
-  $("#featureCover").alt = `Pabalat ng ${book.title}`;
+  $("#featureCover").alt = `Cover of ${book.title}`;
   $("#featureTitle").textContent = book.title;
   $("#featureAuthor").textContent = book.author;
   $("#featureGenre").textContent = book.genre;
   $("#featureSynopsis").textContent = book.synopsis;
   $("#featureLike").setAttribute("aria-pressed", state.favorites.has(book.id));
   $("#featureLike").textContent = state.favorites.has(book.id) ? "♥" : "♡";
-  $("#featureLike").setAttribute("aria-label", state.favorites.has(book.id) ? "Alisin sa My Shelf" : "Idagdag sa My Shelf");
+  $("#featureLike").setAttribute("aria-label", state.favorites.has(book.id) ? "Remove from My Shelf" : "Add to My Shelf");
   $("#featureRead").dataset.id = book.id;
   $("#featureLike").dataset.id = book.id;
   $("#sliderDots").innerHTML = featuredIds.map((_, index) =>
-    `<button class="slider-dot" type="button" data-slide="${index}" aria-label="Tampok na libro ${index + 1}" aria-current="${index === state.featureIndex}"></button>`
+    `<button class="slider-dot" type="button" data-slide="${index}" aria-label="Featured book ${index + 1}" aria-current="${index === state.featureIndex}"></button>`
   ).join("");
 }
 
@@ -466,7 +466,7 @@ function toggleFavorite(id) {
 function updateDialogFavorite() {
   const active = state.favorites.has(state.selectedBook.id);
   $("#dialogLike").setAttribute("aria-pressed", active);
-  $("#dialogLike").innerHTML = `${active ? "♥" : "♡"} <span id="dialogLikeText">${active ? "Nasa My Shelf na" : "Idagdag sa My Shelf"}</span>`;
+  $("#dialogLike").innerHTML = `${active ? "♥" : "♡"} <span id="dialogLikeText">${active ? "Saved to My Shelf" : "Add to My Shelf"}</span>`;
 }
 
 function updateDialogProgress(book) {
@@ -480,13 +480,13 @@ function openDetails(book) {
   state.selectedBook = book;
   state.synopsisOpen = true;
   $("#dialogCover").src = book.cover;
-  $("#dialogCover").alt = `Pabalat ng ${book.title}`;
+  $("#dialogCover").alt = `Cover of ${book.title}`;
   $("#dialogGenre").textContent = book.genre;
   $("#dialogTitle").textContent = book.title;
-  $("#dialogAuthor").textContent = `ni ${book.author}`;
+  $("#dialogAuthor").textContent = `by ${book.author}`;
   $("#dialogSynopsis").textContent = book.synopsis;
   $("#dialogSynopsis").hidden = false;
-  $("#synopsisToggle").textContent = "Itago";
+  $("#synopsisToggle").textContent = "Hide";
   $("#synopsisToggle").setAttribute("aria-expanded", "true");
   $("#dialogRead").dataset.id = book.id;
   $("#dialogLike").dataset.id = book.id;
@@ -500,10 +500,10 @@ function openReader(book) {
   $("#readerBookTitle").textContent = book.title;
   $("#readerGenre").textContent = book.genre;
   $("#readerTitle").textContent = book.title;
-  $("#readerAuthor").textContent = `ni ${book.author}`;
-  $("#chapterHeading").textContent = `Kabanata 1: ${book.chapterTitle}`;
+  $("#readerAuthor").textContent = `by ${book.author}`;
+  $("#chapterHeading").textContent = `Chapter 1: ${book.chapterTitle}`;
   $("#readerCopy").innerHTML = book.chapter.map(paragraph => `<p>${escapeHtml(paragraph)}</p>`).join("");
-  $("#finishReading").innerHTML = 'Tapos na akong magbasa <span aria-hidden="true">✓</span>';
+  $("#finishReading").innerHTML = 'Mark as finished <span aria-hidden="true">✓</span>';
   $("#readerProgress").value = Math.max(0, Math.min(100, Number(state.progress[book.id]) || 0));
   $("#readerDialog").showModal();
   const initialProgress = Math.max(0, Math.min(100, Number(state.progress[book.id]) || 0));
@@ -531,18 +531,18 @@ function saveReaderProgress(forceComplete = false, refreshUI = true) {
 
 function setView(view) {
   state.view = view;
-  state.category = "Lahat";
+  state.category = "All";
   renderFilters();
   renderBooks();
   if (view === "shelf") $("#libraryTitle").textContent = "My Shelf";
-  else $("#libraryTitle").innerHTML = 'Ang library <span class="heading-sparkle" aria-hidden="true">✦</span>';
+  else $("#libraryTitle").innerHTML = 'The Library <span class="heading-sparkle" aria-hidden="true">✦</span>';
 }
 
 function setTheme(theme) {
   state.theme = theme;
   document.documentElement.dataset.theme = theme;
   $("#themeIcon").textContent = theme === "dark" ? "☀" : "☾";
-  $("#themeToggle").setAttribute("aria-label", theme === "dark" ? "Lumipat sa light mode" : "Lumipat sa dark mode");
+  $("#themeToggle").setAttribute("aria-label", theme === "dark" ? "Switch to light mode" : "Switch to dark mode");
   storage.set("lila-theme", theme);
 }
 
@@ -579,7 +579,7 @@ function initialize() {
   });
   $("#sortSelect").addEventListener("change", event => { state.sort = event.target.value; renderBooks(); });
   $("#clearFilters").addEventListener("click", () => {
-    state.category = "Lahat";
+    state.category = "All";
     state.query = "";
     state.view = "library";
     $("#searchInput").value = "";
@@ -618,7 +618,7 @@ function initialize() {
   $("#synopsisToggle").addEventListener("click", () => {
     state.synopsisOpen = !state.synopsisOpen;
     $("#dialogSynopsis").hidden = !state.synopsisOpen;
-    $("#synopsisToggle").textContent = state.synopsisOpen ? "Itago" : "Ipakita";
+    $("#synopsisToggle").textContent = state.synopsisOpen ? "Hide" : "Show";
     $("#synopsisToggle").setAttribute("aria-expanded", String(state.synopsisOpen));
   });
   $("#readerScroll").addEventListener("scroll", () => {
@@ -631,7 +631,7 @@ function initialize() {
   $("#finishReading").addEventListener("click", () => {
     saveReaderProgress(true);
     $("#readerScroll").scrollTo({ top: $("#readerScroll").scrollHeight, behavior: "smooth" });
-    $("#finishReading").innerHTML = "Naitala na ang progreso <span aria-hidden=\"true\">✓</span>";
+    $("#finishReading").innerHTML = "Reading progress saved <span aria-hidden=\"true\">✓</span>";
   });
   $("#fontDown").addEventListener("click", () => {
     state.readerFont = Math.max(14, state.readerFont - 1);
